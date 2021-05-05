@@ -10,6 +10,7 @@
 
     <modules>
         <module>Spring_Data_Day1_JDBC_XML</module>
+        <module>Spring_Data_Day2_Hibernate_XML</module>
     </modules>
 
     <properties>
